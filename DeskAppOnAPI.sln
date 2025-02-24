@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskAppOnAPI", "DeskAppOnAPI\DeskAppOnAPI.csproj", "{4D7DE294-BABC-4AFA-B30D-7D438D51853D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{92D186FC-329B-4E44-882C-FF2B1A2386CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D7DE294-BABC-4AFA-B30D-7D438D51853D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7DE294-BABC-4AFA-B30D-7D438D51853D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7DE294-BABC-4AFA-B30D-7D438D51853D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7DE294-BABC-4AFA-B30D-7D438D51853D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D186FC-329B-4E44-882C-FF2B1A2386CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D186FC-329B-4E44-882C-FF2B1A2386CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D186FC-329B-4E44-882C-FF2B1A2386CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D186FC-329B-4E44-882C-FF2B1A2386CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
